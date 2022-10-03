@@ -7,7 +7,7 @@
 - Cluster Ip
 - Private IPs (pod)
 
-![network-connectivity](./imagez/network-connectivity.png)
+![network-connectivity](./imagez/pod-connectivity.png)
 
 
 ### Overlay Network
